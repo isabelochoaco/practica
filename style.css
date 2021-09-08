@@ -1,0 +1,57 @@
+/*** HOME ****/
+/*** NAV ****/
+nav {
+  background-color: #00587a;
+}
+
+.nav-link {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.logo img {
+  width: 70px;
+}
+
+/*** MAIN ****/
+
+.profile-picture img {
+  width: 200px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px #aaa;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+.profile-info {
+  margin-top: 50px;
+  margin-right: 70px;
+}
+
+h3 {
+  color: #00587a;
+}
+
+/*** FOOTER ****/
+
+#coder {
+  color: blueviolet;
+  font-size: small;
+  text-align: right;
+  margin: 100px;
+}
+
+/*** RESUME ****/
+
+.card-title {
+  text-align: center;
+  color: #00587a;
+}
+.card-text {
+  text-align: center;
+  margin: auto;
+}
+
+#wallpaper {
+  margin-top: 50px;
+}
